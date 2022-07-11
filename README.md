@@ -1,0 +1,2 @@
+# E-Pro
+The name of the project is E-Professions, The general idea of my project is to provide customers with a mobile app that allows them to find good practitioners, such as plumbers, electricians, and so on without the need to search and be confused to select a good one, and also offers good marketing for practitioners, I used flutter as a frontend, firebase as a backend and I used scrum methodology in my project,
